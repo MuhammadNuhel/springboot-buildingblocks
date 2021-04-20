@@ -1,0 +1,8 @@
+1. Stach the changes
+2. Checkout to Dev
+3. Pull Dev into Dev
+4. Checkout to the branch working on
+5. Pull Dev into the local branch and make sure the checkboxes are unchecked
+6. Check if there are conflicts, compare the conflicts with dev and make the changes (In the bitbucket -> source and varify the Dev)
+7. Push the merge/rebase
+8. Varify

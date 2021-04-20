@@ -1,4 +1,4 @@
-1. Stach the changes
+1. Stash the changes
 2. Checkout to Dev
 3. Pull Dev into Dev
 4. Checkout to the branch working on
